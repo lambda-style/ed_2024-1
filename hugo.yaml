@@ -1,0 +1,14 @@
+baseURL: https://lambda-style.github.io/
+languageCode: en-us
+title: Estructuras Discretas 2024-1
+theme: holy
+
+author: "Los alumnos del grupo 7020 de Estructuras Discretas (generación 2024-1)"
+copyright: "Copyright © 2023"
+
+menu:
+  main:
+    - name: "About"
+      identifier: "about"
+      url: "/about/"
+      weight: 10
