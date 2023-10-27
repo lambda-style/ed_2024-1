@@ -3,7 +3,7 @@ title = 'Juan Pablo Yamamoto'
 date = 2023-10-26T21:12:35-06:00
 +++
 
-Hola, mi nombre es Juan Pablo Yamamoto. Soy uno de los ayudantes del curso, y me enfoco en la parte del laboratorio.
+Hola, mi nombre es Juan Pablo Yamamoto. Soy uno de los ayudantes del curso, y me enfoco en la parte del laboratorio. :)
 
 Sobre mí:
 - Colaboro con comunidades de tecnología.
