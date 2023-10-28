@@ -1,5 +1,5 @@
 +++
-title = 'Juan Pablo Yamamoto'
+title = 'Isaac Giovani Escobar González'
 date = 2023-10-26T21:12:35-06:00
 +++
 
